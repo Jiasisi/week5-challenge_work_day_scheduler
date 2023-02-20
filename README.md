@@ -97,3 +97,16 @@ You are required to submit the following for review:
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+## links
+
+The URL of the functional, deployed application:
+https://jiasisi.github.io/week5-challenge_work_day_scheduler/
+
+
+
+The URL of the GitHub repository:
+https://github.com/Jiasisi/week5-challenge_work_day_scheduler
+
+
